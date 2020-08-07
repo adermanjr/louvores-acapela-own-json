@@ -1,0 +1,94 @@
+{
+  "categorias": [
+    {
+      "id":"0",
+      "titulo": "Lançamentos",
+      "cor": "#4223B3",
+      "link_extra": {
+        "text": "Novas gravações",
+        "url": ""
+      },
+      "videos": [
+        {
+          "id": "0",
+          "titulo": "A Ele a Glória",
+          "url": "https://www.youtube.com/watch?v=wRJ1COqLsEY",
+          "letra": "Porque Dele e por Ele<br>Para Ele são todas as coisas. (2x)<br><br><i>Coro</i>:<br>A Ele a glória! (3x)<br>Pra sempre, amém!<br><br><Quão profundas riquezas,<br>O saber e o conhecer de Deus!<br>Quão insondáveis<br>Seus juízos e Seus caminhos!"
+        },
+        {
+          "id": "1",
+          "titulo": "Poder para salvar",
+          "url": "https://www.youtube.com/watch?v=rnZ2D9HZHCk",
+          "letra": "Todos necessitam de um amor perfeito<br>Perdão e compaixão<br>Todos necessitam de graça e esperança<br>De um Deus que salva"
+        },
+        {
+          "id": "2",
+          "titulo": "Vim para adorar te",
+          "url": "https://www.youtube.com/watch?v=WJkZ_07G4Xo"
+        },
+        {
+          "id": "3",
+          "titulo": "Aclame ao Senhor",
+          "url": "https://www.youtube.com/watch?v=Schabbu8l68"
+        },
+        {
+          "id": "4",
+          "titulo": "Abre Senhor os meus olhos",
+          "url": "https://www.youtube.com/watch?v=zbk4Gr0KzeY"
+        },
+        {
+          "id": "5",
+          "titulo": "Cante Aleluia",
+          "url": "https://www.youtube.com/watch?v=MRBJL4DN3so"
+        },
+        {
+          "id": "6",
+          "titulo": "Reina em mim",
+          "url": "https://www.youtube.com/watch?v=Dzg1UC9Sl6M"
+        },
+        {
+          "id": "7",
+          "titulo": "Grato, grato, meu Senhor",
+          "url": "https://www.youtube.com/watch?v=qynGgkwDfMQ"
+        }        
+      ]
+    },
+    {
+      "id":"1",
+      "titulo": "Clássicos",
+      "cor": "#EE1111",
+      "link_extra": {
+        "text": "Hinos históricos",
+        "url": ""
+      },
+      "videos": [
+        {
+          "id": "0",
+          "titulo": "A Razão de Viver",
+          "url": "https://www.youtube.com/watch?v=OHU4U61MNvo"
+        },
+        {
+          "id": "1",
+          "titulo": "Plena Paz",
+          "url": "https://www.youtube.com/watch?v=mQcNNp2T5ag"
+        },
+        {
+          "id": "2",
+          "titulo": "Eu invoco o Senhor",
+          "url": "https://www.youtube.com/watch?v=_QULNaWzUfc"
+        },
+        {
+          "id": "3",
+          "titulo": "Celebrai com Júbilo ao Senhor",
+          "url": "https://www.youtube.com/watch?v=HC1VdBHfBqQ"
+        }, 
+        {
+          
+          "id": "4",
+          "titulo": "Montanhas e vales",
+          "url": "https://www.youtube.com/watch?v=pNHNlYjNaxw"
+        }
+      ]
+    }
+  ]
+}

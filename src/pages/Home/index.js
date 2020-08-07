@@ -26,25 +26,24 @@ function Home() {
   return (
     <PageDefault paddingAll={0}>
       <Menu />
-        <>
-          <BannerMain
-            videoTitle={videoBanner.titulo}
-            url={videoBanner.url}
-            videoDescription={videoBanner.letra}
-            autoPlay={autoPlay}
-          />
-          {/* ignoreFirstVideo */}
-          <Carousel
-            category={db.categorias[0]}
-            onClick={handleChangeBanner}
-          />
+      <>
+        <BannerMain
+          videoTitle={videoBanner.titulo}
+          url={videoBanner.url}
+          videoDescription={videoBanner.letra}
+          autoPlay={autoPlay}
+        />
+        {/* ignoreFirstVideo */}
+        <Carousel
+          category={db.categorias[0]}
+          onClick={handleChangeBanner}
+        />
 
-          <Carousel
-            category={db.categorias[1]}
-            onClick={handleChangeBanner}
-          />
-        </>
-      )
+        <Carousel
+          category={db.categorias[1]}
+          onClick={handleChangeBanner}
+        />
+      </>
 
       {/*
       <Carousel

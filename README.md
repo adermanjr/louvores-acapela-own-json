@@ -3,5 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Orgulhosamente criado durante a [Imersão React da Alura](https://www.alura.com.br/)
 
 #Louvores Acapela em Português - Versão 2
-Json no próprio projeto<br>
+<br>Json no próprio projeto<br>
 Netflix dos cânticos postados em https://www.youtube.com/watch?v=rnZ2D9HZHCk&list=PLreqHPR0yLyVlQuUJdbrxCehW9Yykyo9O

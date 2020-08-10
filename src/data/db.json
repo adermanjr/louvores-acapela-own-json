@@ -2,7 +2,7 @@
   "categorias": [
     {
       "id":"0",
-      "titulo": "Lançamentos",
+      "titulo": "Novos",
       "cor": "#4223B3",
       "link_extra": {
         "text": "Novas gravações",
@@ -11,45 +11,248 @@
       "videos": [
         {
           "id": "0",
+          "categoriaId": "0",
           "titulo": "A Ele a Glória",
           "url": "https://www.youtube.com/watch?v=wRJ1COqLsEY",
           "letra": "Porque Dele e por Ele<br>Para Ele são todas as coisas. (2x)<br><br><i>Coro</i>:<br>A Ele a glória! (3x)<br>Pra sempre, amém!<br><br><Quão profundas riquezas,<br>O saber e o conhecer de Deus!<br>Quão insondáveis<br>Seus juízos e Seus caminhos!"
         },
         {
           "id": "1",
+          "categoriaId": "0",
           "titulo": "Poder para salvar",
           "url": "https://www.youtube.com/watch?v=rnZ2D9HZHCk",
           "letra": "Todos necessitam de um amor perfeito<br>Perdão e compaixão<br>Todos necessitam de graça e esperança<br>De um Deus que salva"
         },
         {
           "id": "2",
+          "categoriaId": "0",
           "titulo": "Vim para adorar te",
           "url": "https://www.youtube.com/watch?v=WJkZ_07G4Xo"
         },
         {
           "id": "3",
+          "categoriaId": "0",
           "titulo": "Aclame ao Senhor",
           "url": "https://www.youtube.com/watch?v=Schabbu8l68"
         },
         {
           "id": "4",
+          "categoriaId": "0",
           "titulo": "Abre Senhor os meus olhos",
           "url": "https://www.youtube.com/watch?v=zbk4Gr0KzeY"
         },
         {
           "id": "5",
+          "categoriaId": "0",
           "titulo": "Cante Aleluia",
           "url": "https://www.youtube.com/watch?v=MRBJL4DN3so"
         },
         {
           "id": "6",
+          "categoriaId": "0",
           "titulo": "Reina em mim",
           "url": "https://www.youtube.com/watch?v=Dzg1UC9Sl6M"
         },
         {
           "id": "7",
+          "categoriaId": "0",
           "titulo": "Grato, grato, meu Senhor",
           "url": "https://www.youtube.com/watch?v=qynGgkwDfMQ"
+        },
+        {
+          "id": "8",
+          "categoriaId": "0",
+          "titulo": "Rompendo em fé",
+          "url": "https://www.youtube.com/watch?v=kVrxoGnR4RY"
+        },
+        {
+          "id": "9",
+          "categoriaId": "0",
+          "titulo": "Eu sou ovelha",
+          "url": "https://www.youtube.com/watch?v=oso3IwNzAQ0",
+          "letra": ""
+        },
+        {
+          "id": "10",
+          "categoriaId": "0",
+          "titulo": "Oceanos",
+          "url": "https://www.youtube.com/watch?v=y4GZ-7Lcr_k",
+          "letra": ""
+        },
+        {
+          "id": "11",
+          "categoriaId": "0",
+          "titulo": "Venho a Ti",
+          "url": "https://www.youtube.com/watch?v=nreHoQVQQDI",
+          "letra": ""
+        },
+        {
+          "id": "12",
+          "categoriaId": "0",
+          "titulo": "Louvado seja Deus",
+          "url": "https://www.youtube.com/watch?v=APZOPa0SmxQ",
+          "letra": ""
+        },
+        {
+          "id": "13",
+          "categoriaId": "0",
+          "titulo": "Dai graças a Deus",
+          "url": "https://www.youtube.com/watch?v=9fkqDs3F1ig",
+          "letra": ""
+        },
+        {
+          "id": "14",
+          "categoriaId": "0",
+          "titulo": "Família",
+          "url": "https://www.youtube.com/watch?v=-xqAgqBqMTg",
+          "letra": ""
+        },
+        {
+          "id": "15",
+          "categoriaId": "0",
+          "titulo": "Examinemos nossos caminhos",
+          "url": "https://www.youtube.com/watch?v=cmo5yA1Gxu4",
+          "letra": ""
+        },
+        {
+          "id": "16",
+          "categoriaId": "0",
+          "titulo": "Rei da criação",
+          "url": "https://www.youtube.com/watch?v=3KLp8Kdf4Es",
+          "letra": ""
+        },
+        {
+          "id": "17",
+          "categoriaId": "0",
+          "titulo": "Tú és o único",
+          "url": "https://www.youtube.com/watch?v=SkOJzaURkcE",
+          "letra": ""
+        },
+        {
+          "id": "18",
+          "categoriaId": "0",
+          "titulo": "Soberano Deus",
+          "url": "https://www.youtube.com/watch?v=QEcK3IiX8t4",
+          "letra": ""
+        },
+        {
+          "id": "19",
+          "categoriaId": "0",
+          "titulo": "Cantai um cântico novo",
+          "url": "https://www.youtube.com/watch?v=mAq8Ek2ASfI",
+          "letra": ""
+        },
+        {
+          "id": "20",
+          "categoriaId": "0",
+          "titulo": "Nós glorificamos",
+          "url": "https://www.youtube.com/watch?v=xqlfqxDr2gY",
+          "letra": ""
+        },
+        {
+          "id": "21",
+          "categoriaId": "0",
+          "titulo": "Aleluia",
+          "url": "https://www.youtube.com/watch?v=00ckppNFTag",
+          "letra": ""
+        },
+        {
+          "id": "22",
+          "categoriaId": "0",
+          "titulo": "Só em Jesus",
+          "url": "https://www.youtube.com/watch?v=kkgySsp8yrM",
+          "letra": ""
+        },
+        {
+          "id": "23",
+          "categoriaId": "0",
+          "titulo": "Nos reunimos na montanha",
+          "url": "https://www.youtube.com/watch?v=-zQTw_Oz8hs",
+          "letra": ""
+        },
+        {
+          "id": "24",
+          "categoriaId": "0",
+          "titulo": "É o nosso Deus",
+          "url": "https://www.youtube.com/watch?v=v3yq_sjsgrU",
+          "letra": ""
+        },
+        {
+          "id": "25",
+          "categoriaId": "0",
+          "titulo": "Coração igual ao Teu",
+          "url": "https://www.youtube.com/watch?v=slvTmS2DMmE",
+          "letra": ""
+        },
+        {
+          "id": "26",
+          "categoriaId": "0",
+          "titulo": "Dias de Elias",
+          "url": "https://www.youtube.com/watch?v=xxg_RAo8qBA",
+          "letra": ""
+        },
+        {
+          "id": "27",
+          "categoriaId": "0",
+          "titulo": "Agnus Dei",
+          "url": "https://www.youtube.com/watch?v=lwf65C6k9uE",
+          "letra": ""
+        },
+        {
+          "id": "28",
+          "categoriaId": "0",
+          "titulo": "Santo Espírito, em mim vem morar",
+          "url": "https://www.youtube.com/watch?v=e8wcJoRyI4w",
+          "letra": ""
+        },
+        {
+          "id": "29",
+          "categoriaId": "0",
+          "titulo": "Hosana nas alturas",
+          "url": "https://www.youtube.com/watch?v=MKP_vcREN0c",
+          "letra": ""
+        },
+        {
+          "id": "30",
+          "categoriaId": "0",
+          "titulo": "Messias",
+          "url": "https://www.youtube.com/watch?v=IOM02K0nO9c",
+          "letra": ""
+        },
+        {
+          "id": "31",
+          "categoriaId": "0",
+          "titulo": "Cristo, o nome mais belo",
+          "url": "https://www.youtube.com/watch?v=w__hFZo2SXY",
+          "letra": ""
+        },
+        {
+          "id": "32",
+          "categoriaId": "0",
+          "titulo": "Comunhão",
+          "url": "https://www.youtube.com/watch?v=4W30ZCkMD8Y",
+          "letra": ""
+        },
+        {
+          "id": "33",
+          "categoriaId": "0",
+          "titulo": "Jesus Cristo, o herói",
+          "url": "https://www.youtube.com/watch?v=1s3UAKYgJes",
+          "letra": ""
+        },
+        {
+          "id": "34",
+          "categoriaId": "0",
+          "titulo": "Grande é o Senhor",
+          "url": "https://www.youtube.com/watch?v=c9o8up2Vzjk",
+          "letra": ""
+        },
+        {
+          "id": "35",
+          "categoriaId": "0",
+          "titulo": "Rocha Forte",
+          "url": "https://www.youtube.com/watch?v=UYNOVN-5tI4",
+          "letra": ""
         }        
       ]
     },
@@ -64,29 +267,227 @@
       "videos": [
         {
           "id": "0",
+          "categoriaId": "1",
           "titulo": "A Razão de Viver",
           "url": "https://www.youtube.com/watch?v=OHU4U61MNvo"
         },
         {
           "id": "1",
+          "categoriaId": "1",
           "titulo": "Plena Paz",
           "url": "https://www.youtube.com/watch?v=mQcNNp2T5ag"
         },
         {
           "id": "2",
+          "categoriaId": "1",
           "titulo": "Eu invoco o Senhor",
           "url": "https://www.youtube.com/watch?v=_QULNaWzUfc"
         },
         {
           "id": "3",
+          "categoriaId": "1",
           "titulo": "Celebrai com Júbilo ao Senhor",
           "url": "https://www.youtube.com/watch?v=HC1VdBHfBqQ"
         }, 
         {
           
           "id": "4",
+          "categoriaId": "1",
           "titulo": "Montanhas e vales",
           "url": "https://www.youtube.com/watch?v=pNHNlYjNaxw"
+        },
+        {
+          "id": "5",
+          "categoriaId": "1",
+          "titulo": "Nome precioso",
+          "url": "https://www.youtube.com/watch?v=s1YUeKHQjP4",
+          "letra": ""
+        },
+        {
+          "id": "6",
+          "categoriaId": "1",
+          "titulo": "Senhor amoroso",
+          "url": "https://www.youtube.com/watch?v=YpFlx9AN0es",
+          "letra": ""
+        },
+        {
+          "id": "7",
+          "categoriaId": "1",
+          "titulo": "Deus é tão bom",
+          "url": "https://www.youtube.com/watch?v=7hEQvPmnmp0",
+          "letra": ""
+        },
+        {
+          "id": "8",
+          "categoriaId": "1",
+          "titulo": "Glória ao Teu nome",
+          "url": "https://www.youtube.com/watch?v=jz5vwZKb1Jw",
+          "letra": ""
+        },
+        {
+          "id": "9",
+          "categoriaId": "1",
+          "titulo": "Brilho celeste",
+          "url": "https://www.youtube.com/watch?v=Y2SHBMbd5wU",
+          "letra": ""
+        },
+        {
+          "id": "10",
+          "categoriaId": "1",
+          "titulo": "Chamada final",
+          "url": "https://www.youtube.com/watch?v=ALNjQM3EGpc",
+          "letra": ""
+        },
+        {
+          "id": "11",
+          "categoriaId": "1",
+          "titulo": "Deslumbrante",
+          "url": "https://www.youtube.com/watch?v=z9S4eJL76NE",
+          "letra": ""
+        },
+        {
+          "id": "12",
+          "categoriaId": "1",
+          "titulo": "Jesus, Tu és meu Rei",
+          "url": "https://www.youtube.com/watch?v=mlpIe1v_hwQ",
+          "letra": ""
+        },
+        {
+          "id": "13",
+          "categoriaId": "1",
+          "titulo": "A batalha pertence ao Senhor",
+          "url": "https://www.youtube.com/watch?v=PuyQvziHE-I",
+          "letra": ""
+        },
+        {
+          "id": "14",
+          "categoriaId": "1",
+          "titulo": "Jesus Celestial",
+          "url": "https://www.youtube.com/watch?v=wAyanG-9Q8M",
+          "letra": ""
+        },
+        {
+          "id": "15",
+          "categoriaId": "1",
+          "titulo": "Meu Senhor desceu dos Céus",
+          "url": "https://www.youtube.com/watch?v=XOom4DlrXvY",
+          "letra": ""
+        },
+        {
+          "id": "16",
+          "categoriaId": "1",
+          "titulo": "Rio Jordão",
+          "url": "https://www.youtube.com/watch?v=jteyBZfcKLk",
+          "letra": ""
+        },
+        {
+          "id": "17",
+          "categoriaId": "1",
+          "titulo": "Sossegai",
+          "url": "https://www.youtube.com/watch?v=-i054p2osGU",
+          "letra": ""
+        },
+        {
+          "id": "18",
+          "categoriaId": "1",
+          "titulo": "Ele é exaltado",
+          "url": "https://www.youtube.com/watch?v=0ZrLPhvuBPw",
+          "letra": ""
+        },
+        {
+          "id": "19",
+          "categoriaId": "1",
+          "titulo": "A mensagem da Cruz",
+          "url": "https://www.youtube.com/watch?v=PnltLhgynFs",
+          "letra": ""
+        },
+        {
+          "id": "20",
+          "categoriaId": "1",
+          "titulo": "Domínio e poder",
+          "url": "https://www.youtube.com/watch?v=KUl1dz12rwM",
+          "letra": ""
+        },
+        {
+          "id": "21",
+          "categoriaId": "1",
+          "titulo": "Hoje é tempo de louvar a Deus",
+          "url": "https://www.youtube.com/watch?v=BUi9WSbzd7o",
+          "letra": ""
+        },
+        {
+          "id": "22",
+          "categoriaId": "1",
+          "titulo": "Alvo mais que a neve",
+          "url": "https://www.youtube.com/watch?v=SkBx_SB04zE",
+          "letra": ""
+        },
+        {
+          "id": "23",
+          "categoriaId": "1",
+          "titulo": "Corajosos",
+          "url": "https://www.youtube.com/watch?v=uBlNF0YaOIY",
+          "letra": ""
+        },
+        {
+          "id": "24",
+          "categoriaId": "1",
+          "titulo": "Digno de Glória",
+          "url": "https://www.youtube.com/watch?v=Y1SvpNIqxBQ",
+          "letra": ""
+        },
+        {
+          "id": "25",
+          "categoriaId": "1",
+          "titulo": "Ao Único",
+          "url": "https://www.youtube.com/watch?v=OPtnCQvO1K0",
+          "letra": ""
+        },
+        {
+          "id": "26",
+          "categoriaId": "1",
+          "titulo": "Humilhai-vos diante de Deus",
+          "url": "https://www.youtube.com/watch?v=VafSG0_aPyk",
+          "letra": ""
+        }
+      ]
+    },
+    {
+      "id":"2",
+      "titulo": "Lançamentos",
+      "cor": "#E89E1E",
+      "link_extra": {
+        "text": "Hinos históricos",
+        "url": ""
+      },
+      "videos": [
+        {
+          "id": "0",
+          "categoriaId": "2",
+          "titulo": "Ao Único",
+          "url": "https://www.youtube.com/watch?v=OPtnCQvO1K0",
+          "letra": ""
+        },
+        {
+          "id": "1",
+          "categoriaId": "2",
+          "titulo": "Jesus Cristo, o herói",
+          "url": "https://www.youtube.com/watch?v=1s3UAKYgJes",
+          "letra": ""
+        },
+        {
+          "id": "2",
+          "categoriaId": "2",
+          "titulo": "Humilhai-vos diante de Deus",
+          "url": "https://www.youtube.com/watch?v=VafSG0_aPyk",
+          "letra": ""
+        },
+        {
+          "id": "3",
+          "categoriaId": "2",
+          "titulo": "Grande é o Senhor",
+          "url": "https://www.youtube.com/watch?v=c9o8up2Vzjk",
+          "letra": ""
         }
       ]
     }

@@ -15,3 +15,25 @@ export const FooterBase = styled.footer`
     margin-bottom: 50px;
   }
 */
+export const TextoInf = styled.p`
+  font-family: 'Press Start 2P', cursive;
+  font-style: normal;
+  font-size: 10px;
+  @media (max-width: 800px) {
+    font-size: 8px;
+  }
+`;
+
+export const LinkInf = styled.a`
+  font-family: 'Press Start 2P', cursive;
+  font-style: normal;
+  font-size: 12px;
+  @media (max-width: 800px) {
+    font-size: 10px;
+  }
+`;
+
+export const ImgInf = styled.img`
+  padding-top: 20px;
+  width: 35px;
+`;
